@@ -1,0 +1,2 @@
+# developed (more by llm) script for print a h5 file hierarchy to see the contents
+# use default pyenv python enviroment: pip 25.1.1 from python 3.13
