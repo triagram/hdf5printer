@@ -8,10 +8,18 @@ A easy to use tool for printing hdf5 hierarchy structure.
 
 
 
+
+
+
+
+
+
 Todo:
 
-[] optimize code structure
+- [x] finish the first draft
 
-[] add arg for setting desired print level
+- [ ] optimize code structure
 
-[] optimize args option and description
+- [ ] add arg for setting desired print level
+
+- [ ] optimize args option and description
